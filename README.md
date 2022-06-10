@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
 
 ## Description
 This code will act as a back end to an ecommerce website. It includes all CRUD routes/methods. Please see the demo video below to see how the routes are working with Insomnia!
